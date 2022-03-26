@@ -1,0 +1,8 @@
+# Schema for the configuration files of the duowei theme.
+duowei.settings:
+  type: theme_settings
+  label: 'duowei settings'
+  mapping:
+    font_size:
+      type: integer
+      label: Font size
